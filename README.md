@@ -1,2 +1,2 @@
 # Football_Manager_Application
-This Repository contains Code and other files for a Football Team Manager Application developed completely from scratch by me and my team.
+Bringing football management to your fingertips, our user-friendly app simplifies team management. Securely login to access your personalized profile. Track progress and make strategic decisions.Add players with names and photos. Customize your squad for each match.Stay updated on recent matches and upcoming fixtures. Get insights on results and standings.Create surprising lineups to outwit opponents.Explore detailed stats and ratings for informed decisions.Experience football management like never before. Join us and lead your team to glory!
